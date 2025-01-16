@@ -1,3 +1,4 @@
+# date command output
 ![date command output](date.png)
 ![manual command manual](mandate.png)
 ![pwd command output](pwd.png)
