@@ -3,5 +3,5 @@ Operating system lab
 #Basic linux practice
 ##General command outputs
 ### date command output
-![date command output](date.png)
-![manual command manual](mandate.png)
+![date command output](pwd.png)
+![manual command manual](manpwd.png)
