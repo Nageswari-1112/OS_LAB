@@ -2,6 +2,6 @@
 Operating system lab
 #Basic linux practice
 ##General command outputs
-### date command output
-![date command output](date.png)
-![manual command manual](man.png)
+### tty command output
+![tty command output](tty.png)
+![manual command manual](man tty.png)
