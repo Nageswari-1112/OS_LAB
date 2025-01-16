@@ -4,4 +4,4 @@ Operating system lab
 ##General command outputs
 ### tty command output
 ![tty command output](tty.png)
-![manual command manual](man tty.png)
+![manual command manual](mantty.png)
